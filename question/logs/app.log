@@ -1,0 +1,4 @@
+{"level":"info","message":"Listening at port 3003"}
+{"contentLength":"149","level":"info","message":"HTTP Access Log","method":"GET","responseTime":126.132,"status":404,"timestamp":"Sat May 11 2024 10:48:07 GMT+0100 (West Africa Standard Time)","url":"/solution/1"}
+{"contentLength":"139","level":"info","message":"HTTP Access Log","method":"GET","responseTime":2.224,"status":404,"timestamp":"Sat May 11 2024 10:48:13 GMT+0100 (West Africa Standard Time)","url":"/"}
+{"level":"info","message":"Listening at port 3003"}
